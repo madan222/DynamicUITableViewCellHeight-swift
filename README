@@ -6,6 +6,6 @@ DynamicUITableViewCellHeight is created to help developer who are looking for a 
 Getting Started
 ---------------
 Download the project and have a look on MyTableViewCell.swift class file. 
-For now I have demonstrated anly two label for dynamic height but you can add other User Interface component for Dynamic cell height.
+For now I have demonstrated two label for dynamic height but you can add other User Interface component for Dynamic cell height.
 Just consider all component while configuring them in cell class and return appropriate cell height.
-I have try to optimise this to improved its performance for complex compenent.
+
