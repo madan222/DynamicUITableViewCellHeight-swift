@@ -14,6 +14,7 @@
 		9D8BB9021C85BA2400B5DA42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D8BB9001C85BA2400B5DA42 /* LaunchScreen.storyboard */; };
 		9D8BB90D1C85BA2500B5DA42 /* DynamicTableViewCellHeightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8BB90C1C85BA2500B5DA42 /* DynamicTableViewCellHeightTests.swift */; };
 		9D8BB9181C85BA2500B5DA42 /* DynamicTableViewCellHeightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8BB9171C85BA2500B5DA42 /* DynamicTableViewCellHeightUITests.swift */; };
+		9D8BB9261C85BA4600B5DA42 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8BB9251C85BA4600B5DA42 /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9D8BB9131C85BA2500B5DA42 /* DynamicTableViewCellHeightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DynamicTableViewCellHeightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D8BB9171C85BA2500B5DA42 /* DynamicTableViewCellHeightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicTableViewCellHeightUITests.swift; sourceTree = "<group>"; };
 		9D8BB9191C85BA2500B5DA42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D8BB9251C85BA4600B5DA42 /* MyTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				9D8BB8F71C85BA2400B5DA42 /* AppDelegate.swift */,
 				9D8BB8F91C85BA2400B5DA42 /* ViewController.swift */,
+				9D8BB9251C85BA4600B5DA42 /* MyTableViewCell.swift */,
 				9D8BB8FB1C85BA2400B5DA42 /* Main.storyboard */,
 				9D8BB8FE1C85BA2400B5DA42 /* Assets.xcassets */,
 				9D8BB9001C85BA2400B5DA42 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				9D8BB8FA1C85BA2400B5DA42 /* ViewController.swift in Sources */,
 				9D8BB8F81C85BA2400B5DA42 /* AppDelegate.swift in Sources */,
+				9D8BB9261C85BA4600B5DA42 /* MyTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
